@@ -1,5 +1,9 @@
-# Demo app for Junior Design
-## Hear a Tale - Contractions for Third Graders
+# Hear a Tale - Contractions for Third Graders
+## Nathan Davenport, Chaselyn Baca, Parisha Reddy, Andrew Jeffers, Jose Penalver Bartolome
+
+# Description
+
+
 
 
 # Pitch
@@ -28,6 +32,12 @@ beautifully-designed application that will succeed in helping as many students a
 
 
 # Deliverables
+
+## Links
+[User Research](https://drive.google.com/file/d/145v5gGUKHwCh5kbpmZKCSr0bWBaPSv-U/view?usp=sharing)
+[Final Slides](https://drive.google.com/file/d/1cOGe1DPx9B4yJCuTKu225v-BBcb1j4Wy/view?usp=sharing)
+[Final Presentation](https://drive.google.com/file/d/1XUSOWtu0Lw_NrAJRyWIrruamMJnMic3u/view)
+
 
 ## Video demo:
 [![Video link](screenshots/video.png)](https://drive.google.com/file/d/1XUSOWtu0Lw_NrAJRyWIrruamMJnMic3u/view "Demo video")
