@@ -1,6 +1,6 @@
 # Hear a Tale - Contractions for Third Graders
 
-**Nathan Davenport, Chaselyn Baca, Parisha Reddy, Andrew Jeffers, Jose Penalver Bartolome**
+**By: Nathan Davenport, Chaselyn Baca, Parisha Reddy, Andrew Jeffers, Jose Penalver Bartolome**
 
 # Description
 
