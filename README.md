@@ -4,7 +4,7 @@
 
 # Description
 
-My team for Junior Design is currently developing an iOS application for client Hear a Tale, to build an app that conencts to their web app in order to teach kids contractions. Currently the app is built using Swift. The first half of the class is mostly research and design, and that is what I am documenting in this github. More details below.
+My team for Junior Design is currently developing an iOS application for client Hear a Tale, to build an app that conencts to their web app in order to teach kids contractions. Currently the app is built using Swift. The first half of the class is mostly research and design, and that is what I am documenting in this github. Development will start in the Spring. More details below.
 
 # Pitch
 It is a sad truth that many young students lack access to resources that would enable them to
